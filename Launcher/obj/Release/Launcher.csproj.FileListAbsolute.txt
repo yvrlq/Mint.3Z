@@ -1,0 +1,10 @@
+D:\My Game\zuixinyuanma\Release\Launcher\Launcher.exe
+D:\My Game\zuixinyuanma\Release\Launcher\Launcher.pdb
+D:\My Game\zuixinyuanma\src【19.03.30日的】\Launcher\obj\Release\Launcher.csprojAssemblyReference.cache
+D:\My Game\zuixinyuanma\src【19.03.30日的】\Launcher\obj\Release\Launcher.LMain.resources
+D:\My Game\zuixinyuanma\src【19.03.30日的】\Launcher\obj\Release\Launcher.Properties.Resources.resources
+D:\My Game\zuixinyuanma\src【19.03.30日的】\Launcher\obj\Release\Launcher.csproj.GenerateResource.cache
+D:\My Game\zuixinyuanma\src【19.03.30日的】\Launcher\obj\Release\Launcher.exe.licenses
+D:\My Game\zuixinyuanma\src【19.03.30日的】\Launcher\obj\Release\Launcher.csproj.CoreCompileInputs.cache
+D:\My Game\zuixinyuanma\src【19.03.30日的】\Launcher\obj\Release\Launcher.exe
+D:\My Game\zuixinyuanma\src【19.03.30日的】\Launcher\obj\Release\Launcher.pdb

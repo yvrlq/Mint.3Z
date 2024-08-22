@@ -1,0 +1,31 @@
+D:\work_svn\zircon\trunk\Debug\Patcher\Patcher.exe.config
+D:\work_svn\zircon\trunk\Debug\Patcher\Patcher.exe
+D:\work_svn\zircon\trunk\Debug\Patcher\Patcher.pdb
+D:\work_svn\zircon\trunk\src\Patcher\obj\Debug\Patcher.PMain.resources
+D:\work_svn\zircon\trunk\src\Patcher\obj\Debug\Patcher.Properties.Resources.resources
+D:\work_svn\zircon\trunk\src\Patcher\obj\Debug\Patcher.csproj.GenerateResource.cache
+D:\work_svn\zircon\trunk\src\Patcher\obj\Debug\Patcher.csproj.CoreCompileInputs.cache
+D:\work_svn\zircon\trunk\src\Patcher\obj\Debug\Patcher.csproj.CopyComplete
+D:\work_svn\zircon\trunk\src\Patcher\obj\Debug\Patcher.exe
+D:\work_svn\zircon\trunk\src\Patcher\obj\Debug\Patcher.pdb
+D:\My Game\zuixinyuanma\Debug\Patcher\Patcher.exe.config
+D:\My Game\zuixinyuanma\Debug\Patcher\Patcher.exe
+D:\My Game\zuixinyuanma\Debug\Patcher\Patcher.pdb
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\Patcher\obj\Debug\Patcher.csprojAssemblyReference.cache
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\Patcher\obj\Debug\Patcher.PMain.resources
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\Patcher\obj\Debug\Patcher.Properties.Resources.resources
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\Patcher\obj\Debug\Patcher.csproj.GenerateResource.cache
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\Patcher\obj\Debug\Patcher.csproj.CoreCompileInputs.cache
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\Patcher\obj\Debug\Patcher.csproj.CopyComplete
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\Patcher\obj\Debug\Patcher.exe
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\Patcher\obj\Debug\Patcher.pdb
+F:\Program\Microsoft\Zircon-3Z-wuqin\Debug\Patcher\Patcher.exe.config
+F:\Program\Microsoft\Zircon-3Z-wuqin\Debug\Patcher\Patcher.exe
+F:\Program\Microsoft\Zircon-3Z-wuqin\Debug\Patcher\Patcher.pdb
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\Debug\Patcher.PMain.resources
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\Debug\Patcher.Properties.Resources.resources
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\Debug\Patcher.csproj.GenerateResource.cache
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\Debug\Patcher.csproj.CoreCompileInputs.cache
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\Debug\Patcher.csproj.CopyComplete
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\Debug\Patcher.exe
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\Debug\Patcher.pdb

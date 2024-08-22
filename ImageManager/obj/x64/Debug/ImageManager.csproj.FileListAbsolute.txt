@@ -1,0 +1,15 @@
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\obj\x64\Debug\ImageManager.csproj.AssemblyReference.cache
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\obj\x64\Debug\ImageManager.IMain.resources
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\obj\x64\Debug\ImageManager.Properties.Resources.resources
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\obj\x64\Debug\ImageManager.csproj.GenerateResource.cache
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\obj\x64\Debug\ImageManager.exe.licenses
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\obj\x64\Debug\ImageManager.csproj.CoreCompileInputs.cache
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\bin\x64\Debug\ImageManager.exe.config
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\bin\x64\Debug\ImageManager.exe
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\bin\x64\Debug\ImageManager.pdb
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\bin\x64\Debug\ManagedSquish.dll
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\bin\x64\Debug\NativeSquish_x86.dll
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\bin\x64\Debug\NativeSquish_x64.dll
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\obj\x64\Debug\ImageManager.csproj.CopyComplete
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\obj\x64\Debug\ImageManager.exe
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\ImageManager\obj\x64\Debug\ImageManager.pdb

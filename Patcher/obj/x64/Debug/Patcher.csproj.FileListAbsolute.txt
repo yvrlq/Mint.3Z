@@ -1,0 +1,12 @@
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\bin\x64\Debug\Patcher.exe.config
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\bin\x64\Debug\Patcher.exe
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\bin\x64\Debug\Patcher.pdb
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\bin\x64\Debug\DevExpress.BonusSkins.v22.2.dll
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\x64\Debug\Patcher.csproj.AssemblyReference.cache
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\x64\Debug\Patcher.PMain.resources
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\x64\Debug\Patcher.Properties.Resources.resources
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\x64\Debug\Patcher.csproj.GenerateResource.cache
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\x64\Debug\Patcher.csproj.CoreCompileInputs.cache
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\x64\Debug\Patcher.csproj.CopyComplete
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\x64\Debug\Patcher.exe
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\Patcher\obj\x64\Debug\Patcher.pdb

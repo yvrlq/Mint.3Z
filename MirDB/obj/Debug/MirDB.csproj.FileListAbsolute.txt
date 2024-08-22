@@ -1,0 +1,2 @@
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\MirDB\obj\Debug\MirDB.csproj.AssemblyReference.cache
+F:\Program\Microsoft\Zircon-3Z-wuqin\Zircon-3Z\MirDB\obj\Debug\MirDB.csproj.CoreCompileInputs.cache
